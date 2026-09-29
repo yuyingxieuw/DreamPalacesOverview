@@ -1,5 +1,8 @@
 # Dream Palaces Project Overview
 
+# Dream Palaces Project Overview
+
+Dream Palace is a full-stack platform for showcasing Black cinema and preserving historical Black newspapers, combining an OCR digitization pipeline, a custom API, self-built algorithms for Spilhaus projection, and interactive map-based frontends into a single archival system.
 Dream Palace is a full-stack platform for showcasing Black cinema and preserving historical Black newspapers, combining an OCR digitization pipeline, a custom API, self-built algorithms for Spilhaus projection, and interactive map-based frontends into a single archival system.
 
 ## Architecture
@@ -19,4 +22,5 @@ _System architecture diagram coming soon._
 
 ## My Role
 
+As the sole technical lead on Dream Palace, I work alongside several design and data-collection teams. I own every technical decision and built the full stack end-to-end: the OCR pipeline, the central API serving all frontends, the interactive map interface, the vector and raster basemaps, and the custom Spilhaus reprojection algorithms. I also designed the shared data schema and data-entry standards used across the project's teams.
 As the sole technical lead on Dream Palace, I work alongside several design and data-collection teams. I own every technical decision and built the full stack end-to-end: the OCR pipeline, the central API serving all frontends, the interactive map interface, the vector and raster basemaps, and the custom Spilhaus reprojection algorithms. I also designed the shared data schema and data-entry standards used across the project's teams.
