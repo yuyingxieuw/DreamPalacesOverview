@@ -1,7 +1,5 @@
 # Dream Palaces Project Overview
 
-# Dream Palaces Project Overview
-
 Dream Palace is a full-stack platform for showcasing Black cinema and preserving historical Black newspapers, combining an OCR digitization pipeline, a custom API, self-built algorithms for Spilhaus projection, and interactive map-based frontends into a single archival system.
 Dream Palace is a full-stack platform for showcasing Black cinema and preserving historical Black newspapers, combining an OCR digitization pipeline, a custom API, self-built algorithms for Spilhaus projection, and interactive map-based frontends into a single archival system.
 
